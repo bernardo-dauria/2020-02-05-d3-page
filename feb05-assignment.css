@@ -1,0 +1,47 @@
+body {
+  margin: 2% 5%;
+  width: 90%;
+  position: relative;
+  background-color: white;
+}
+
+.assignment {
+  margin: 20px 0;
+}
+
+.assignment .submission {
+  margin-top: 10px;
+}
+
+.help {
+  margin: 40px 0;
+}
+
+table {
+  margin: 2% 5%;
+  width: 400px;
+}
+
+td {
+  border: 1px solid blue;
+  text-align: center;
+}
+
+col.name {
+  background-color: darkgray;
+  color: white;
+}
+
+col.selected {
+  background-color: lightgreen;
+  color: red;
+}
+
+th {
+  background-color: white;
+  user-select: none;
+}
+
+td.value {
+  background-color: lightgreen;
+}
